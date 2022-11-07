@@ -1,4 +1,4 @@
 # demo_git_project
 
-new changes 1
+NEW changes 1
 new changes 2
